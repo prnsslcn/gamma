@@ -12,7 +12,7 @@ function App() {
       autoScrolling: true,
       navigation: true,
       anchors: ['home', 'about', 'projects', 'contact'],
-      navigationTooltips: ['Home', 'About', 'Projects', 'Contact'],
+      // navigationTooltips: ['Home', 'About', 'Projects', 'Contact'],
       showActiveTooltip: true,
       scrollOverflow: true,
     });
